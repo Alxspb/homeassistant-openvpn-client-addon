@@ -15,5 +15,6 @@
   "schema": {
     "ovpnfile": "str"
   },
-  "map" : ["share:rw"]
+  "map" : ["share:rw"],
+  "init": false
 }
